@@ -2,7 +2,7 @@ from distutils.core import setup
 setup(
 	name = 'logline',
 	packages = ['logline'], # this must be the same as the name above
-	version = '0.1',
+	version = '0.1.1',
 	description = 'A Python abstraction library for the LogLine API',
 	long_description = "See README.md for the full description of LogLine",
 	author = 'Finnian Anderson',
