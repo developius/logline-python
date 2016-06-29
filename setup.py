@@ -4,7 +4,7 @@ setup(
 	packages = ['logline'], # this must be the same as the name above
 	version = '0.1',
 	description = 'A Python abstraction library for the LogLine API',
-	long_description = readme(),
+	long_description = "See README.md for the full description of LogLine",
 	author = 'Finnian Anderson',
 	author_email = 'finnian.anderson@gmail.com',
 	url = 'https://github.com/developius/logline-python', # use the URL to the github repo
